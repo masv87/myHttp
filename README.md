@@ -5,7 +5,7 @@ MD5 hash of the response.
 
 Build:  ``` go build -o myhttp```
 
-Usage: ```./myhttp [-parallel int] [URLs]...``` 
+Usage: ```./myhttp [-parallel int] URLs...``` 
 ```
   -parallel int
         parallel workers count (default 10)
